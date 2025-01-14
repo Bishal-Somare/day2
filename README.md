@@ -1,5 +1,4 @@
 # day2
-Day X: Challenges Solved
 
 Problem 2: Longest Substring Without Repeating Characters
 
